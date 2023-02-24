@@ -1,3 +1,8 @@
+# App Gestión de Tareas
+
+![AppTareas](https://user-images.githubusercontent.com/91395402/221277433-37ab5686-16e7-4b53-9585-1eb97199c784.jpg)
+
+
 # AppTareas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
