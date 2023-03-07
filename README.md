@@ -1,5 +1,5 @@
-# App Gestión de Tareas
-Esta app se realizó con la finalidad para ir registrando las tareas cotidiana.
+# App Gestión de Tareas👩‍🌾✍📅📝
+Esta app se realizó con la finalidad para ir registrando las tareas cotidiana📝.
 
 ![AppTareas](https://user-images.githubusercontent.com/91395402/221277433-37ab5686-16e7-4b53-9585-1eb97199c784.jpg)
 
